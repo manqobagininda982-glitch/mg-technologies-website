@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+<title id="title">MG Technologies logo</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#64d5ff"/><stop offset="1" stop-color="#1689b9"/></linearGradient></defs>
+<rect x="4" y="4" width="120" height="120" rx="25" fill="#193d5c"/>
+<path d="M25 91V37h12l27 32 27-32h12v54H89V58L64 87 39 58v33z" fill="url(#g)"/>
+<circle cx="103" cy="25" r="7" fill="#64d5ff"/>
+</svg>
